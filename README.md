@@ -91,9 +91,9 @@ Things I built;)
 ### 📊 GitHub Statistics
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandhuRamesh143&show_prs_merged=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NandhuRamesh143&show_prs_merged=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandhuRamesh143&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs" />
   <br />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandhuRamesh143&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=NandhuRamesh143&theme=tokyonight&hide_border=false" />
 </div>
