@@ -24,7 +24,7 @@ Security automation tools, SSH Brute-Force Blockers, Mini SIEMs and platforms th
 
 ---
 
-### 🧰 My Tech Stack (a.k.a. Things I Google Daily)
+### 🧰 My Tech Stack
 
 <table>
   <tr>
