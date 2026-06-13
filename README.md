@@ -69,7 +69,7 @@ Security automation tools, SSH Brute-Force Blockers, Mini SIEMs and platforms th
 
 ### 🚀 Featured Projects
 
-Things I built instead of sleeping. No regrets.
+Things I built;)
 
 <table>
   <tr>
@@ -89,7 +89,6 @@ Things I built instead of sleeping. No regrets.
 ---
 
 ### 📊 GitHub Statistics
-*(proof that I do in fact touch grass, just not very often)*
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NandhuRamesh143&show_prs_merged=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=commits" />
