@@ -1,6 +1,6 @@
 <div align="center">
   <img src="demo-once.gif">
-  <img src="https://media.tenor.com/V7S18c5R9l8AAAAC/creeper-explosion.gif" alt="Creeper Explosion Banner" width="48%" style="border-radius: 10px;">
+  
  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=40FFAC00&vCenter=true&random=false&width=545&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Nandhu+Rameshh" alt="Typing SVG"></a>
   
